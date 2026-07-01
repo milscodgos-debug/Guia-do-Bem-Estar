@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ficha Calistenia | Guia do Bem Estar</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Ficha Calistenia</h1>
+    <p>Força corporal com foco em mobilidade e controle.</p>
+  </header>
+  <nav>
+    <a href="index.html">Início</a>
+    <a href="blog.html">Blog</a>
+    <a href="treinos.html">Treinos</a>
+  </nav>
+  <main>
+    <section class="training-detail">
+      <div class="training-detail-header">
+        <h2>Calistenia com 7 exercícios</h2>
+        <p>Faça 4 rounds. 12 repetições por movimento com 45 segundos de descanso.</p>
+        <div class="training-meta">
+          <span class="meta-pill">Séries: 4</span>
+          <span class="meta-pill">Descanso: 45s</span>
+          <span class="meta-pill">Nível: Intermediário</span>
+        </div>
+        <div class="action-row">
+          <button class="btn btn-start" onclick="startTimer(1800)">Iniciar cronômetro</button>
+          <a class="btn btn-secondary" href="treinos.html">Voltar</a>
+        </div>
+      </div>
+      <div class="timer-card" id="timerPanel" hidden>
+        <h3>Cronômetro do treino</h3>
+        <div id="timerDisplay">30:00</div>
+        <button class="btn btn-start" onclick="toggleTimer()" id="timerButton">Iniciar</button>
+      </div>
+      <div class="equipment-card">
+        <h3>Equipamentos</h3>
+        <p>Barra fixa ou barras paralelas ajudam, mas o treino pode ser feito com o peso do corpo.</p>
+      </div>
+      <div class="level-card">
+        <h3>Versões por nível</h3>
+        <ul>
+          <li><strong>Iniciante:</strong> flexões apoiadas e barras assistidas.</li>
+          <li><strong>Intermediário:</strong> 4 rounds com execução mais controlada.</li>
+          <li><strong>Avançado:</strong> mais repetições e pausas curtas.</li>
+        </ul>
+      </div>
+      <div class="exercise-list">
+        <article class="exercise-card">
+          <img src="assets/treinos/Flexão.webp" alt="Flexão" />
+          <div>
+            <h3>1. Flexão</h3>
+            <p>Trabalha peito, ombros e tríceps.</p>
+          </div>
+        </article>
+        <article class="exercise-card">
+          <img src="assets/treinos/Barra fixa com braços alternados.webp" alt="Barra fixa" />
+          <div>
+            <h3>2. Barra fixa assistida</h3>
+            <p>Fortalece costas e braços.</p>
+          </div>
+        </article>
+        <article class="exercise-card">
+          <img src="assets/treinos/Flexão.webp" alt="Flexão declinada" />
+          <div>
+            <h3>3. Flexão declinada</h3>
+            <p>Aumenta a dificuldade e a carga corporal.</p>
+          </div>
+        </article>
+        <article class="exercise-card">
+          <img src="assets/treinos/Barra fixa com braços alternados.webp" alt="Barra fixa com apoio" />
+          <div>
+            <h3>4. Barra fixa com apoio</h3>
+            <p>Mais controle e estabilidade.</p>
+          </div>
+        </article>
+        <article class="exercise-card">
+          <img src="assets/treinos/Flexão.webp" alt="Flexão estreita" />
+          <div>
+            <h3>5. Flexão estreita</h3>
+            <p>Foca mais em tríceps.</p>
+          </div>
+        </article>
+        <article class="exercise-card">
+          <img src="assets/treinos/Barra fixa com braços alternados.webp" alt="Barra fixa com pegada neutra" />
+          <div>
+            <h3>6. Barra fixa neutra</h3>
+            <p>Melhora força e posicionamento.</p>
+          </div>
+        </article>
+        <article class="exercise-card">
+          <img src="assets/treinos/Flexão.webp" alt="Flexão com pausa" />
+          <div>
+            <h3>7. Flexão com pausa</h3>
+            <p>Melhora controle e resistência.</p>
+          </div>
+        </article>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>© 2026 Guia do Bem Estar</p>
+  </footer>
+</body>
+</html>
