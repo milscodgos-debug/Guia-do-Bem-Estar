@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/index.html</loc>
+    <loc>https://guia-do-bem-estar.vercel.app/</loc>
   </url>
   <url>
-    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/sobre.html</loc>
+    <loc>https://guia-do-bem-estar.vercel.app/sobre.html</loc>
   </url>
   <url>
-    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/blog.html</loc>
+    <loc>https://guia-do-bem-estar.vercel.app/blog.html</loc>
   </url>
   <url>
-    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/contato.html</loc>
+    <loc>https://guia-do-bem-estar.vercel.app/contato.html</loc>
   </url>
   <url>
-    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/categoria.html</loc>
+    <loc>https://guia-do-bem-estar.vercel.app/categoria.html</loc>
   </url>
   <url>
-    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/artigos.html</loc>
+    <loc>https://guia-do-bem-estar.vercel.app/artigos.html</loc>
   </url>
   <url>
-    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/treinos.html</loc>
+    <loc>https://guia-do-bem-estar.vercel.app/treinos.html</loc>
   </url>
 </urlset>
