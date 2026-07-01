@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://seu-site.com/</loc>
+    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/index.html</loc>
   </url>
   <url>
-    <loc>https://seu-site.com/sobre.html</loc>
+    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/sobre.html</loc>
   </url>
   <url>
-    <loc>https://seu-site.com/blog.html</loc>
+    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/blog.html</loc>
   </url>
   <url>
-    <loc>https://seu-site.com/contato.html</loc>
+    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/contato.html</loc>
+  </url>
+  <url>
+    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/categoria.html</loc>
+  </url>
+  <url>
+    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/artigos.html</loc>
+  </url>
+  <url>
+    <loc>https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/treinos.html</loc>
   </url>
 </urlset>
