@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://milscodgos-debug.github.io/Guia-do-Bem-Estar/public/sitemap.xml
+Sitemap: https://guia-do-bem-estar.vercel.app/sitemap.xml
